@@ -1,0 +1,23 @@
+{
+  "name": "eslint-learn",
+  "version": "1.0.0",
+  "description": "learn ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weixiaobo88/ESLint-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weixiaobo88/ESLint-learn/issues"
+  },
+  "homepage": "https://github.com/weixiaobo88/ESLint-learn#readme",
+  "devDependencies": {
+    "eslint": "^2.11.0",
+    "eslint-plugin-react": "^5.1.1"
+  }
+}
