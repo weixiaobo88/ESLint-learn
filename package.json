@@ -18,6 +18,7 @@
   "homepage": "https://github.com/weixiaobo88/ESLint-learn#readme",
   "devDependencies": {
     "eslint": "^2.11.0",
+    "eslint-plugin-mocha": "^2.2.0",
     "eslint-plugin-react": "^5.1.1"
   }
 }
